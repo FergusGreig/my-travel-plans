@@ -21,6 +21,12 @@ body {
     width: 80%;
 }
 
+a.nostyle{
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
+
 .destination-container {
     display: flex;
     flex-flow: wrap;
